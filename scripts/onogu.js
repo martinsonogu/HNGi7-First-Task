@@ -11,9 +11,7 @@ function myProfile() {
     idNumber +
     " using " +
     language +
-    " for stage 2 task and " +
-    email
+    " for stage 2 task"
   );
 }
-
-myProfile();
+console.log(myProfile());
