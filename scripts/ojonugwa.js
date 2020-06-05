@@ -14,4 +14,5 @@ function myProfile() {
     " for stage 2 task"
   );
 }
+
 console.log(myProfile());
